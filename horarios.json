@@ -1,260 +1,2164 @@
 {
- "atualizado": "exemplo",
  "dias": {
   "2026-10-26": [
    {
     "equipa": "4EB",
     "entrada": "10:30",
-    "espaco": "Qualidade 1",
-    "estado": "normal"
+    "espaco": "Qualidade 1"
    },
    {
     "equipa": "4EC",
     "entrada": "10:30",
-    "espaco": "Eletrónica",
-    "estado": "normal"
+    "espaco": "Eletrónica"
    },
    {
     "equipa": "4ED",
     "entrada": "09:30",
-    "espaco": "Otimização 1",
-    "estado": "normal"
+    "espaco": "Otimização 1"
    },
    {
     "equipa": "4EE",
     "entrada": "10:30",
-    "espaco": "Telecomunicações",
-    "estado": "normal"
+    "espaco": "Telecomunicações"
    },
    {
     "equipa": "4EF",
     "entrada": "09:30",
-    "espaco": "Ginásio",
-    "estado": "normal"
+    "espaco": "Ginásio"
    },
    {
     "equipa": "4EG",
     "entrada": "10:30",
-    "espaco": "Otimização 2",
-    "estado": "normal"
+    "espaco": "Otimização 2"
    },
    {
     "equipa": "4EM",
     "entrada": "09:30",
-    "espaco": "Instrumentação",
-    "estado": "normal"
+    "espaco": "Instrumentação"
    },
    {
     "equipa": "4EN",
     "entrada": "10:30",
-    "espaco": "Análise",
-    "estado": "normal"
+    "espaco": "Análise"
    },
    {
     "equipa": "4EO",
     "entrada": "09:30",
-    "espaco": "Qualidade 2",
-    "estado": "normal"
+    "espaco": "Qualidade 2"
    },
    {
     "equipa": "4EP",
     "entrada": "09:30",
-    "espaco": "Creative Studio",
-    "estado": "normal"
+    "espaco": "Creative Studio"
    },
    {
     "equipa": "4EQ",
     "entrada": "09:30",
-    "espaco": "Creative Studio",
-    "estado": "normal"
+    "espaco": "Creative Studio"
    },
    {
     "equipa": "4ER",
     "entrada": "09:30",
-    "espaco": "Creative Studio",
-    "estado": "normal"
+    "espaco": "Creative Studio"
    },
    {
     "equipa": "4EX",
     "entrada": "09:30",
-    "espaco": "Analise",
-    "estado": "normal"
-   },
-   {
-    "equipa": "4EZ",
-    "entrada": "10:30",
-    "espaco": "Autonomia 2",
-    "estado": "normal"
+    "espaco": "Análise"
    },
    {
     "equipa": "4EY",
     "entrada": "10:30",
-    "espaco": "Iniciativa",
-    "estado": "normal"
+    "espaco": "Autonomia 2"
+   },
+   {
+    "equipa": "4EZ",
+    "entrada": "10:30",
+    "espaco": "Iniciativa"
    },
    {
     "equipa": "4FA",
     "entrada": "09:30",
-    "espaco": "Resultados 2",
-    "estado": "normal"
+    "espaco": "Resultados 2"
    },
    {
     "equipa": "4FB",
     "entrada": "10:30",
-    "espaco": "Energias",
-    "estado": "normal"
+    "espaco": "Energias"
    },
    {
     "equipa": "4FC",
     "entrada": "09:30",
-    "espaco": "Automação",
-    "estado": "normal"
+    "espaco": "Automação"
    },
    {
     "equipa": "T2BN",
     "entrada": "09:30",
-    "espaco": "TA 1",
-    "estado": "normal"
+    "espaco": "TA"
    },
    {
     "equipa": "T2BQ",
     "entrada": "09:30",
-    "espaco": "Resultado 1",
-    "estado": "normal"
+    "espaco": "Resultados 1"
    },
    {
     "equipa": "T3AU",
     "entrada": "09:30",
-    "espaco": "TA 1",
-    "estado": "normal"
+    "espaco": "TA"
    }
   ],
-  "2026-10-08": [
+  "2026-10-27": [
    {
     "equipa": "4EB",
     "entrada": "09:30",
-    "espaco": "Qualidade 2",
-    "estado": "normal"
+    "espaco": "Energias"
    },
    {
     "equipa": "4EC",
-    "entrada": "09:30",
-    "espaco": "Energias",
-    "estado": "normal"
+    "entrada": "10:30",
+    "espaco": "Otimização 1"
    },
    {
     "equipa": "4ED",
     "entrada": "09:30",
-    "espaco": "Eletrónica",
-    "estado": "normal"
+    "espaco": "Qualidade 1"
    },
    {
     "equipa": "4EE",
-    "entrada": "10:30",
-    "espaco": "Resultados 1",
-    "estado": "normal"
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
    },
    {
     "equipa": "4EF",
     "entrada": "09:30",
-    "espaco": "Qualidade 1",
-    "estado": "normal"
+    "espaco": "Creative Studio"
    },
    {
     "equipa": "4EG",
     "entrada": "09:30",
-    "espaco": "Automação",
-    "estado": "normal"
+    "espaco": "Creative Studio"
    },
    {
     "equipa": "4EM",
     "entrada": "09:30",
-    "espaco": "Melhoria",
-    "estado": "normal"
+    "espaco": "Melhoria"
    },
    {
     "equipa": "4EN",
-    "entrada": "10:30",
-    "espaco": "Iniciativa",
-    "estado": "normal"
+    "entrada": "09:30",
+    "espaco": "Análise"
    },
    {
     "equipa": "4EO",
     "entrada": "09:30",
-    "espaco": "Otimização 2",
-    "estado": "normal"
+    "espaco": "Telecomunicações"
    },
    {
     "equipa": "4EP",
     "entrada": "09:30",
-    "espaco": "Instrumentação",
-    "estado": "normal"
+    "espaco": "Qualidade 2"
    },
    {
     "equipa": "4EQ",
     "entrada": "09:30",
-    "espaco": "Analise",
-    "estado": "normal"
+    "espaco": "Automação"
    },
    {
     "equipa": "4ER",
-    "entrada": "09:30",
-    "espaco": "Iniciativa",
-    "estado": "normal"
+    "entrada": "10:30",
+    "espaco": "TA"
    },
    {
     "equipa": "4EX",
     "entrada": "09:30",
-    "espaco": "Ginásio",
-    "estado": "normal"
-   },
-   {
-    "equipa": "4EZ",
-    "entrada": "09:30",
-    "espaco": "Telecomunicações",
-    "estado": "normal"
+    "espaco": "Instrumentação"
    },
    {
     "equipa": "4EY",
     "entrada": "09:30",
-    "espaco": "Autonomia 1",
-    "estado": "normal"
+    "espaco": "Otimização 2"
+   },
+   {
+    "equipa": "4EZ",
+    "entrada": "09:30",
+    "espaco": "Autonomia 2"
    },
    {
     "equipa": "4FA",
     "entrada": "09:30",
-    "espaco": "Creative Studio",
-    "estado": "normal"
+    "espaco": "Ginásio"
    },
    {
     "equipa": "4FB",
-    "entrada": "09:30",
-    "espaco": "Creative Studio",
-    "estado": "normal"
+    "entrada": "10:30",
+    "espaco": "Energias"
    },
    {
     "equipa": "4FC",
     "entrada": "09:30",
-    "espaco": "Creative Studio",
-    "estado": "normal"
+    "espaco": "Iniciativa"
+   },
+   {
+    "equipa": "T2BN",
+    "entrada": "10:30",
+    "espaco": "Autonomia 1"
+   },
+   {
+    "equipa": "T2BQ",
+    "entrada": "10:30",
+    "espaco": "Resultados 1"
+   },
+   {
+    "equipa": "T3AU",
+    "entrada": "10:30",
+    "espaco": "Resultados 2"
+   }
+  ],
+  "2026-10-28": [
+   {
+    "equipa": "4EB",
+    "entrada": "09:30",
+    "espaco": "Ginásio"
+   },
+   {
+    "equipa": "4EC",
+    "entrada": "10:30",
+    "espaco": "TA"
+   },
+   {
+    "equipa": "4ED",
+    "entrada": "10:30",
+    "espaco": "Telecomunicações"
+   },
+   {
+    "equipa": "4EE",
+    "entrada": "09:30",
+    "espaco": "Automação"
+   },
+   {
+    "equipa": "4EF",
+    "entrada": "09:30",
+    "espaco": "Energias"
+   },
+   {
+    "equipa": "4EG",
+    "entrada": "09:30",
+    "espaco": "Instrumentação"
+   },
+   {
+    "equipa": "4EM",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EN",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EO",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EP",
+    "entrada": "10:30",
+    "espaco": "Qualidade 2"
+   },
+   {
+    "equipa": "4EQ",
+    "entrada": "09:30",
+    "espaco": "Melhoria"
+   },
+   {
+    "equipa": "4ER",
+    "entrada": "10:30",
+    "espaco": "Análise"
+   },
+   {
+    "equipa": "4EX",
+    "entrada": "10:30",
+    "espaco": "Iniciativa"
+   },
+   {
+    "equipa": "4EY",
+    "entrada": "09:30",
+    "espaco": "Ginásio"
+   },
+   {
+    "equipa": "4EZ",
+    "entrada": "10:30",
+    "espaco": "Autonomia 2"
+   },
+   {
+    "equipa": "4FA",
+    "entrada": "09:30",
+    "espaco": "Eletrónica"
+   },
+   {
+    "equipa": "4FB",
+    "entrada": "10:30",
+    "espaco": "Resultados 2"
+   },
+   {
+    "equipa": "4FC",
+    "entrada": "09:30",
+    "espaco": "Otimização 2"
    },
    {
     "equipa": "T2BN",
     "entrada": "09:30",
-    "espaco": "TA",
-    "estado": "normal"
+    "espaco": "Resultados 1"
    },
    {
     "equipa": "T2BQ",
-    "entrada": "09:30",
-    "espaco": "TA",
-    "estado": "normal"
+    "entrada": "10:30",
+    "espaco": "Autonomia 1"
    },
    {
     "equipa": "T3AU",
     "entrada": "09:30",
-    "espaco": "TA",
-    "estado": "normal"
+    "espaco": "TA"
+   }
+  ],
+  "2026-10-29": [
+   {
+    "equipa": "4EB",
+    "entrada": "09:30",
+    "espaco": "Qualidade 1"
+   },
+   {
+    "equipa": "4EC",
+    "entrada": "10:30",
+    "espaco": "Otimização 1"
+   },
+   {
+    "equipa": "4ED",
+    "entrada": "09:30",
+    "espaco": "TA"
+   },
+   {
+    "equipa": "4EE",
+    "entrada": "09:30",
+    "espaco": "Energias"
+   },
+   {
+    "equipa": "4EF",
+    "entrada": "09:30",
+    "espaco": "Instrumentação"
+   },
+   {
+    "equipa": "4EG",
+    "entrada": "10:30",
+    "espaco": "Automação"
+   },
+   {
+    "equipa": "4EM",
+    "entrada": "09:30",
+    "espaco": "Análise"
+   },
+   {
+    "equipa": "4EN",
+    "entrada": "09:30",
+    "espaco": "Eletrónica"
+   },
+   {
+    "equipa": "4EO",
+    "entrada": "09:30",
+    "espaco": "Qualidade 2"
+   },
+   {
+    "equipa": "4EP",
+    "entrada": "09:30",
+    "espaco": "Telecomunicações"
+   },
+   {
+    "equipa": "4EQ",
+    "entrada": "09:30",
+    "espaco": "Melhoria"
+   },
+   {
+    "equipa": "4ER",
+    "entrada": "10:30",
+    "espaco": "Análise"
+   },
+   {
+    "equipa": "4EX",
+    "entrada": "10:30",
+    "espaco": "Iniciativa"
+   },
+   {
+    "equipa": "4EY",
+    "entrada": "10:30",
+    "espaco": "Otimização 2"
+   },
+   {
+    "equipa": "4EZ",
+    "entrada": "09:30",
+    "espaco": "Autonomia 2"
+   },
+   {
+    "equipa": "4FA",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4FB",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4FC",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "T2BN",
+    "entrada": "10:30",
+    "espaco": "Autonomia 1"
+   },
+   {
+    "equipa": "T2BQ",
+    "entrada": "09:30",
+    "espaco": "Resultados 1"
+   },
+   {
+    "equipa": "T3AU",
+    "entrada": "09:30",
+    "espaco": "Resultados 2"
+   }
+  ],
+  "2026-10-30": [
+   {
+    "equipa": "4EB",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EC",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4ED",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EE",
+    "entrada": "09:30",
+    "espaco": "Telecomunicações"
+   },
+   {
+    "equipa": "4EF",
+    "entrada": "09:30",
+    "espaco": "Energias"
+   },
+   {
+    "equipa": "4EG",
+    "entrada": "10:30",
+    "espaco": "Otimização 1"
+   },
+   {
+    "equipa": "4EM",
+    "entrada": "09:30",
+    "espaco": "Eletrónica"
+   },
+   {
+    "equipa": "4EN",
+    "entrada": "09:30",
+    "espaco": "Melhoria"
+   },
+   {
+    "equipa": "4EO",
+    "entrada": "09:30",
+    "espaco": "Qualidade 2"
+   },
+   {
+    "equipa": "4EP",
+    "entrada": "09:30",
+    "espaco": "Ginásio"
+   },
+   {
+    "equipa": "4EQ",
+    "entrada": "10:30",
+    "espaco": "Automação"
+   },
+   {
+    "equipa": "4ER",
+    "entrada": "10:30",
+    "espaco": "Análise"
+   },
+   {
+    "equipa": "4EX",
+    "entrada": "10:30",
+    "espaco": "Instrumentação"
+   },
+   {
+    "equipa": "4EY",
+    "entrada": "10:30",
+    "espaco": "Resultados 2"
+   },
+   {
+    "equipa": "4EZ",
+    "entrada": "09:30",
+    "espaco": "Autonomia 2"
+   },
+   {
+    "equipa": "4FA",
+    "entrada": "09:30",
+    "espaco": "Resultados 2"
+   },
+   {
+    "equipa": "4FB",
+    "entrada": "10:30",
+    "espaco": "Iniciativa"
+   },
+   {
+    "equipa": "4FC",
+    "entrada": "10:30",
+    "espaco": "Qualidade 2"
+   },
+   {
+    "equipa": "T2BN",
+    "entrada": "10:30",
+    "espaco": "Resultados 1"
+   },
+   {
+    "equipa": "T2BQ",
+    "entrada": "09:30",
+    "espaco": "TA"
+   },
+   {
+    "equipa": "T3AU",
+    "entrada": "10:30",
+    "espaco": "TA"
+   }
+  ],
+  "2026-11-03": [
+   {
+    "equipa": "4EB",
+    "entrada": "10:30",
+    "espaco": "TA"
+   },
+   {
+    "equipa": "4EC",
+    "entrada": "10:30",
+    "espaco": "Automação"
+   },
+   {
+    "equipa": "4ED",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EE",
+    "entrada": "10:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EF",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EG",
+    "entrada": "09:30",
+    "espaco": "Melhoria"
+   },
+   {
+    "equipa": "4EM",
+    "entrada": "10:30",
+    "espaco": "Análise"
+   },
+   {
+    "equipa": "4EN",
+    "entrada": "09:30",
+    "espaco": "Eletrónica"
+   },
+   {
+    "equipa": "4EO",
+    "entrada": "09:30",
+    "espaco": "Otimização 2"
+   },
+   {
+    "equipa": "4EP",
+    "entrada": "09:30",
+    "espaco": "Energias"
+   },
+   {
+    "equipa": "4EQ",
+    "entrada": "10:30",
+    "espaco": "Iniciativa"
+   },
+   {
+    "equipa": "4ER",
+    "entrada": "10:30",
+    "espaco": "Ginásio"
+   },
+   {
+    "equipa": "4EX",
+    "entrada": "09:30",
+    "espaco": "Ginásio"
+   },
+   {
+    "equipa": "4EY",
+    "entrada": "10:30",
+    "espaco": "Autonomia 2"
+   },
+   {
+    "equipa": "4EZ",
+    "entrada": "09:30",
+    "espaco": "Resultados 2"
+   },
+   {
+    "equipa": "4FA",
+    "entrada": "09:30",
+    "espaco": "Telecomunicações"
+   },
+   {
+    "equipa": "4FB",
+    "entrada": "09:30",
+    "espaco": "Qualidade 2"
+   },
+   {
+    "equipa": "4FC",
+    "entrada": "09:30",
+    "espaco": "Instrumentação"
+   },
+   {
+    "equipa": "T2BN",
+    "entrada": "09:30",
+    "espaco": "Resultados 1"
+   },
+   {
+    "equipa": "T2BQ",
+    "entrada": "09:30",
+    "espaco": "Qualidade 1"
+   },
+   {
+    "equipa": "T3AU",
+    "entrada": "09:30",
+    "espaco": "TA"
+   }
+  ],
+  "2026-11-04": [
+   {
+    "equipa": "4EB",
+    "entrada": "09:30",
+    "espaco": "Qualidade 1"
+   },
+   {
+    "equipa": "4EC",
+    "entrada": "10:30",
+    "espaco": "Automação"
+   },
+   {
+    "equipa": "4ED",
+    "entrada": "09:30",
+    "espaco": "Resultados 1"
+   },
+   {
+    "equipa": "4EE",
+    "entrada": "09:30",
+    "espaco": "Autonomia 1"
+   },
+   {
+    "equipa": "4EF",
+    "entrada": "09:30",
+    "espaco": "Instrumentação"
+   },
+   {
+    "equipa": "4EG",
+    "entrada": "10:30",
+    "espaco": "Melhoria"
+   },
+   {
+    "equipa": "4EM",
+    "entrada": "09:30",
+    "espaco": "Eletrónica"
+   },
+   {
+    "equipa": "4EN",
+    "entrada": "10:30",
+    "espaco": "Análise"
+   },
+   {
+    "equipa": "4EO",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EP",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EQ",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4ER",
+    "entrada": "10:30",
+    "espaco": "Telecomunicações"
+   },
+   {
+    "equipa": "4EX",
+    "entrada": "10:30",
+    "espaco": "Iniciativa"
+   },
+   {
+    "equipa": "4EY",
+    "entrada": "09:30",
+    "espaco": "Ginásio"
+   },
+   {
+    "equipa": "4EZ",
+    "entrada": "10:30",
+    "espaco": "Resultados 2"
+   },
+   {
+    "equipa": "4FA",
+    "entrada": "09:30",
+    "espaco": "Qualidade 2"
+   },
+   {
+    "equipa": "4FB",
+    "entrada": "09:30",
+    "espaco": "Autonomia 2"
+   },
+   {
+    "equipa": "4FC",
+    "entrada": "10:30",
+    "espaco": "Energias"
+   },
+   {
+    "equipa": "T2BN",
+    "entrada": "10:30",
+    "espaco": "TA"
+   },
+   {
+    "equipa": "T2BQ",
+    "entrada": "09:30",
+    "espaco": "Otimização 2"
+   },
+   {
+    "equipa": "T3AU",
+    "entrada": "09:30",
+    "espaco": "TA"
+   }
+  ],
+  "2026-11-05": [
+   {
+    "equipa": "4EB",
+    "entrada": "10:30",
+    "espaco": "Energias"
+   },
+   {
+    "equipa": "4EC",
+    "entrada": "09:30",
+    "espaco": "Otimização 1"
+   },
+   {
+    "equipa": "4ED",
+    "entrada": "09:30",
+    "espaco": "Resultados 1"
+   },
+   {
+    "equipa": "4EE",
+    "entrada": "09:30",
+    "espaco": "Autonomia 1"
+   },
+   {
+    "equipa": "4EF",
+    "entrada": "10:30",
+    "espaco": "Autonomia 2"
+   },
+   {
+    "equipa": "4EG",
+    "entrada": "10:30",
+    "espaco": "Eletrónica"
+   },
+   {
+    "equipa": "4EM",
+    "entrada": "10:30",
+    "espaco": "Automação"
+   },
+   {
+    "equipa": "4EN",
+    "entrada": "10:30",
+    "espaco": "Análise"
+   },
+   {
+    "equipa": "4EO",
+    "entrada": "09:30",
+    "espaco": "Ginásio"
+   },
+   {
+    "equipa": "4EP",
+    "entrada": "09:30",
+    "espaco": "Qualidade 2"
+   },
+   {
+    "equipa": "4EQ",
+    "entrada": "09:30",
+    "espaco": "Melhoria"
+   },
+   {
+    "equipa": "4ER",
+    "entrada": "09:30",
+    "espaco": "Instrumentação"
+   },
+   {
+    "equipa": "4EX",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EY",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EZ",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4FA",
+    "entrada": "10:30",
+    "espaco": "Iniciativa"
+   },
+   {
+    "equipa": "4FB",
+    "entrada": "10:30",
+    "espaco": "Resultados 2"
+   },
+   {
+    "equipa": "4FC",
+    "entrada": "09:30",
+    "espaco": "Otimização 2"
+   },
+   {
+    "equipa": "T2BN",
+    "entrada": "09:30",
+    "espaco": "Qualidade 1"
+   },
+   {
+    "equipa": "T2BQ",
+    "entrada": "09:30",
+    "espaco": "TA"
+   },
+   {
+    "equipa": "T3AU",
+    "entrada": "09:30",
+    "espaco": "TA"
+   }
+  ],
+  "2026-11-06": [
+   {
+    "equipa": "4EB",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EC",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4ED",
+    "entrada": "09:30",
+    "espaco": "Resultados 1"
+   },
+   {
+    "equipa": "4EE",
+    "entrada": "09:30",
+    "espaco": "Autonomia 1"
+   },
+   {
+    "equipa": "4EF",
+    "entrada": "09:30",
+    "espaco": "Ginásio"
+   },
+   {
+    "equipa": "4EG",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EM",
+    "entrada": "09:30",
+    "espaco": "Energias"
+   },
+   {
+    "equipa": "4EN",
+    "entrada": "09:30",
+    "espaco": "Telecomunicações"
+   },
+   {
+    "equipa": "4EO",
+    "entrada": "10:30",
+    "espaco": "Instrumentação"
+   },
+   {
+    "equipa": "4EP",
+    "entrada": "10:30",
+    "espaco": "Otimização 2"
+   },
+   {
+    "equipa": "4EQ",
+    "entrada": "09:30",
+    "espaco": "Melhoria"
+   },
+   {
+    "equipa": "4ER",
+    "entrada": "11:30",
+    "espaco": "Iniciativa"
+   },
+   {
+    "equipa": "4EX",
+    "entrada": "09:30",
+    "espaco": "Eletrónica"
+   },
+   {
+    "equipa": "4EY",
+    "entrada": "09:30",
+    "espaco": "Resultados 2"
+   },
+   {
+    "equipa": "4EZ",
+    "entrada": "09:30",
+    "espaco": "Automação"
+   },
+   {
+    "equipa": "4FA",
+    "entrada": "09:30",
+    "espaco": "Otimização 1"
+   },
+   {
+    "equipa": "4FB",
+    "entrada": "10:30",
+    "espaco": "Autonomia 2"
+   },
+   {
+    "equipa": "4FC",
+    "entrada": "10:30",
+    "espaco": "Qualidade 2"
+   },
+   {
+    "equipa": "T2BN",
+    "entrada": "09:30",
+    "espaco": "Qualidade 1"
+   },
+   {
+    "equipa": "T2BQ",
+    "entrada": "09:30",
+    "espaco": "TA"
+   },
+   {
+    "equipa": "T3AU",
+    "entrada": "09:30",
+    "espaco": "TA"
+   }
+  ],
+  "2026-11-09": [
+   {
+    "equipa": "4EB",
+    "entrada": "09:30",
+    "espaco": "Qualidade 1"
+   },
+   {
+    "equipa": "4EC",
+    "entrada": "09:30",
+    "espaco": "Otimização 1"
+   },
+   {
+    "equipa": "4ED",
+    "entrada": "10:30",
+    "espaco": "Autonomia 1"
+   },
+   {
+    "equipa": "4EE",
+    "entrada": "10:30",
+    "espaco": "Resultados 1"
+   },
+   {
+    "equipa": "4EF",
+    "entrada": "09:30",
+    "espaco": "Ginásio"
+   },
+   {
+    "equipa": "4EG",
+    "entrada": "10:30",
+    "espaco": "Automação"
+   },
+   {
+    "equipa": "4EM",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EN",
+    "entrada": "09:30",
+    "espaco": "Telecomunicações"
+   },
+   {
+    "equipa": "4EO",
+    "entrada": "09:30",
+    "espaco": "Qualidade 2"
+   },
+   {
+    "equipa": "4EP",
+    "entrada": "09:30",
+    "espaco": "Energias"
+   },
+   {
+    "equipa": "4EQ",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4ER",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EX",
+    "entrada": "09:30",
+    "espaco": "Iniciativa"
+   },
+   {
+    "equipa": "4EZ",
+    "entrada": "10:30",
+    "espaco": "Autonomia 1"
+   },
+   {
+    "equipa": "4EY",
+    "entrada": "09:30",
+    "espaco": "Resultados 2"
+   },
+   {
+    "equipa": "4FA",
+    "entrada": "09:30",
+    "espaco": "Análise"
+   },
+   {
+    "equipa": "4FB",
+    "entrada": "09:30",
+    "espaco": "Eletrónica"
+   },
+   {
+    "equipa": "4FC",
+    "entrada": "09:30",
+    "espaco": "Instrumentação"
+   },
+   {
+    "equipa": "T2BN",
+    "entrada": "10:30",
+    "espaco": "TA"
+   },
+   {
+    "equipa": "T2BQ",
+    "entrada": "09:30",
+    "espaco": "Resultados 1"
+   },
+   {
+    "equipa": "T3AU",
+    "entrada": "09:30",
+    "espaco": "TA"
+   }
+  ],
+  "2026-11-10": [
+   {
+    "equipa": "4EB",
+    "entrada": "10:30",
+    "espaco": "Energias"
+   },
+   {
+    "equipa": "4EC",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4ED",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EE",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EF",
+    "entrada": "14:30",
+    "espaco": "Eletrónica"
+   },
+   {
+    "equipa": "4EG",
+    "entrada": "10:30",
+    "espaco": "Telecomunicações"
+   },
+   {
+    "equipa": "4EM",
+    "entrada": "09:30",
+    "espaco": "Análise"
+   },
+   {
+    "equipa": "4EN",
+    "entrada": "10:30",
+    "espaco": "Iniciativa"
+   },
+   {
+    "equipa": "4EO",
+    "entrada": "10:30",
+    "espaco": "Otimização 2"
+   },
+   {
+    "equipa": "4EP",
+    "entrada": "09:30",
+    "espaco": "TA"
+   },
+   {
+    "equipa": "4EQ",
+    "entrada": "11:30",
+    "espaco": "Automação"
+   },
+   {
+    "equipa": "4ER",
+    "entrada": "09:30",
+    "espaco": "Melhoria"
+   },
+   {
+    "equipa": "4EX",
+    "entrada": "09:30",
+    "espaco": "Ginásio"
+   },
+   {
+    "equipa": "4EZ",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EY",
+    "entrada": "10:30",
+    "espaco": "Instrumentação"
+   },
+   {
+    "equipa": "4FA",
+    "entrada": "10:30",
+    "espaco": "Autonomia 1"
+   },
+   {
+    "equipa": "4FB",
+    "entrada": "09:30",
+    "espaco": "Resultados 2"
+   },
+   {
+    "equipa": "4FC",
+    "entrada": "09:30",
+    "espaco": "Qualidade 2"
+   },
+   {
+    "equipa": "T2BN",
+    "entrada": "09:30",
+    "espaco": "Otimização 1"
+   },
+   {
+    "equipa": "T2BQ",
+    "entrada": "09:30",
+    "espaco": "Ginásio"
+   },
+   {
+    "equipa": "T3AU",
+    "entrada": "09:30",
+    "espaco": "Resultados 1"
+   }
+  ],
+  "2026-11-11": [
+   {
+    "equipa": "4EB",
+    "entrada": "09:30",
+    "espaco": "Ginásio"
+   },
+   {
+    "equipa": "4EC",
+    "entrada": "09:30",
+    "espaco": "Telecomunicações"
+   },
+   {
+    "equipa": "4ED",
+    "entrada": "10:30",
+    "espaco": "Autonomia 1"
+   },
+   {
+    "equipa": "4EE",
+    "entrada": "09:30",
+    "espaco": "Resultados 1"
+   },
+   {
+    "equipa": "4EF",
+    "entrada": "09:30",
+    "espaco": "Automação"
+   },
+   {
+    "equipa": "4EG",
+    "entrada": "09:30",
+    "espaco": "Otimização 2"
+   },
+   {
+    "equipa": "4EM",
+    "entrada": "10:30",
+    "espaco": "Análise"
+   },
+   {
+    "equipa": "4EN",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EO",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EP",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EQ",
+    "entrada": "09:30",
+    "espaco": "Iniciativa"
+   },
+   {
+    "equipa": "4ER",
+    "entrada": "09:30",
+    "espaco": "Melhoria"
+   },
+   {
+    "equipa": "4EX",
+    "entrada": "09:30",
+    "espaco": "Eletrónica"
+   },
+   {
+    "equipa": "4EZ",
+    "entrada": "09:30",
+    "espaco": "Iniciativa"
+   },
+   {
+    "equipa": "4EY",
+    "entrada": "09:30",
+    "espaco": "Energias"
+   },
+   {
+    "equipa": "4FA",
+    "entrada": "09:30",
+    "espaco": "Análise"
+   },
+   {
+    "equipa": "4FB",
+    "entrada": "09:30",
+    "espaco": "Autonomia 2"
+   },
+   {
+    "equipa": "4FC",
+    "entrada": "09:30",
+    "espaco": "Resultados 2"
+   },
+   {
+    "equipa": "T2BN",
+    "entrada": "09:30",
+    "espaco": "TA"
+   },
+   {
+    "equipa": "T2BQ",
+    "entrada": "10:30",
+    "espaco": "TA"
+   },
+   {
+    "equipa": "T3AU",
+    "entrada": "09:30",
+    "espaco": "Qualidade 2"
+   }
+  ],
+  "2026-11-12": [
+   {
+    "equipa": "4EB",
+    "entrada": "09:30",
+    "espaco": "Qualidade 1"
+   },
+   {
+    "equipa": "4EC",
+    "entrada": "10:30",
+    "espaco": "Otimização 1"
+   },
+   {
+    "equipa": "4ED",
+    "entrada": "09:30",
+    "espaco": "Autonomia 1"
+   },
+   {
+    "equipa": "4EE",
+    "entrada": "10:30",
+    "espaco": "Autonomia 2"
+   },
+   {
+    "equipa": "4EF",
+    "entrada": "10:30",
+    "espaco": "Resultados 1"
+   },
+   {
+    "equipa": "4EG",
+    "entrada": "09:30",
+    "espaco": "Melhoria"
+   },
+   {
+    "equipa": "4EM",
+    "entrada": "10:30",
+    "espaco": "Energias"
+   },
+   {
+    "equipa": "4EN",
+    "entrada": "09:30",
+    "espaco": "Análise"
+   },
+   {
+    "equipa": "4EO",
+    "entrada": "09:30",
+    "espaco": "Automação"
+   },
+   {
+    "equipa": "4EP",
+    "entrada": "09:30",
+    "espaco": "Eletrónica"
+   },
+   {
+    "equipa": "4EQ",
+    "entrada": "09:30",
+    "espaco": "Iniciativa"
+   },
+   {
+    "equipa": "4ER",
+    "entrada": "09:30",
+    "espaco": "Telecomunicações"
+   },
+   {
+    "equipa": "4EX",
+    "entrada": "09:30",
+    "espaco": "Instrumentação"
+   },
+   {
+    "equipa": "4EZ",
+    "entrada": "09:30",
+    "espaco": "Ginásio"
+   },
+   {
+    "equipa": "4EY",
+    "entrada": "10:30",
+    "espaco": "Resultados 2"
+   },
+   {
+    "equipa": "4FA",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4FB",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4FC",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "T2BN",
+    "entrada": "09:30",
+    "espaco": "TA"
+   },
+   {
+    "equipa": "T2BQ",
+    "entrada": "09:30",
+    "espaco": "Resultados 2"
+   },
+   {
+    "equipa": "T3AU",
+    "entrada": "09:30",
+    "espaco": "TA"
+   }
+  ],
+  "2026-11-16": [
+   {
+    "equipa": "4EM",
+    "entrada": "09:30",
+    "espaco": "Análise"
+   },
+   {
+    "equipa": "4EN",
+    "entrada": "09:30",
+    "espaco": "Iniciativa"
+   },
+   {
+    "equipa": "4EO",
+    "entrada": "10:30",
+    "espaco": "Ginásio"
+   },
+   {
+    "equipa": "4EP",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EQ",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4ER",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EX",
+    "entrada": "09:30",
+    "espaco": "Automação"
+   },
+   {
+    "equipa": "4EY",
+    "entrada": "09:30",
+    "espaco": "Autonomia 2"
+   },
+   {
+    "equipa": "4EZ",
+    "entrada": "09:30",
+    "espaco": "Energias"
+   },
+   {
+    "equipa": "4FA",
+    "entrada": "10:30",
+    "espaco": "Qualidade 1"
+   },
+   {
+    "equipa": "4FB",
+    "entrada": "09:30",
+    "espaco": "Resultados 2"
+   },
+   {
+    "equipa": "4FC",
+    "entrada": "09:30",
+    "espaco": "Eletrónica"
+   },
+   {
+    "equipa": "T2BN",
+    "entrada": "09:30",
+    "espaco": "Resultados 1"
+   },
+   {
+    "equipa": "T2BQ",
+    "entrada": "09:30",
+    "espaco": "Qualidade 2"
+   },
+   {
+    "equipa": "T3AU",
+    "entrada": "09:30",
+    "espaco": "TA"
+   }
+  ],
+  "2026-11-17": [
+   {
+    "equipa": "4EM",
+    "entrada": "10:30",
+    "espaco": "Análise"
+   },
+   {
+    "equipa": "4EN",
+    "entrada": "09:30",
+    "espaco": "Energias"
+   },
+   {
+    "equipa": "4EO",
+    "entrada": "09:30",
+    "espaco": "Instrumentação"
+   },
+   {
+    "equipa": "4EP",
+    "entrada": "10:30",
+    "espaco": "Otimização 2"
+   },
+   {
+    "equipa": "4EQ",
+    "entrada": "09:30",
+    "espaco": "Eletrónica"
+   },
+   {
+    "equipa": "4ER",
+    "entrada": "09:30",
+    "espaco": "Ginásio"
+   },
+   {
+    "equipa": "4EX",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EY",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EZ",
+    "entrada": "10:30",
+    "espaco": "Resultados 2"
+   },
+   {
+    "equipa": "4FA",
+    "entrada": "09:30",
+    "espaco": "Telecomunicações"
+   },
+   {
+    "equipa": "4FB",
+    "entrada": "09:30",
+    "espaco": "Autonomia 2"
+   },
+   {
+    "equipa": "4FC",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "T2BN",
+    "entrada": "10:30",
+    "espaco": "TA"
+   },
+   {
+    "equipa": "T2BQ",
+    "entrada": "09:30",
+    "espaco": "Otimização 1"
+   },
+   {
+    "equipa": "T3AU",
+    "entrada": "09:30",
+    "espaco": "Qualidade 1"
+   }
+  ],
+  "2026-11-18": [
+   {
+    "equipa": "4EM",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EN",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EO",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EP",
+    "entrada": "09:30",
+    "espaco": "Ginásio"
+   },
+   {
+    "equipa": "4EQ",
+    "entrada": "09:30",
+    "espaco": "Análise"
+   },
+   {
+    "equipa": "4ER",
+    "entrada": "10:30",
+    "espaco": "Melhoria"
+   },
+   {
+    "equipa": "4EX",
+    "entrada": "09:30",
+    "espaco": "Melhoria"
+   },
+   {
+    "equipa": "4EY",
+    "entrada": "09:30",
+    "espaco": "Autonomia 2"
+   },
+   {
+    "equipa": "4EZ",
+    "entrada": "09:30",
+    "espaco": "Resultados 2"
+   },
+   {
+    "equipa": "4FA",
+    "entrada": "09:30",
+    "espaco": "Eletrónica"
+   },
+   {
+    "equipa": "4FB",
+    "entrada": "09:30",
+    "espaco": "Telecomunicações"
+   },
+   {
+    "equipa": "4FC",
+    "entrada": "09:30",
+    "espaco": "Instrumentação"
+   },
+   {
+    "equipa": "T2BN",
+    "entrada": "10:30",
+    "espaco": "TA"
+   },
+   {
+    "equipa": "T2BQ",
+    "entrada": "09:30",
+    "espaco": "Qualidade 2"
+   },
+   {
+    "equipa": "T3AU",
+    "entrada": "10:30",
+    "espaco": "TA"
+   }
+  ],
+  "2026-11-19": [
+   {
+    "equipa": "4EM",
+    "entrada": "09:30",
+    "espaco": "Instrumentação"
+   },
+   {
+    "equipa": "4EN",
+    "entrada": "09:30",
+    "espaco": "Telecomunicações"
+   },
+   {
+    "equipa": "4EO",
+    "entrada": "09:30",
+    "espaco": "Qualidade 2"
+   },
+   {
+    "equipa": "4EP",
+    "entrada": "09:30",
+    "espaco": "Otimização 2"
+   },
+   {
+    "equipa": "4EQ",
+    "entrada": "09:30",
+    "espaco": "Eletrónica"
+   },
+   {
+    "equipa": "4ER",
+    "entrada": "10:30",
+    "espaco": "Energias"
+   },
+   {
+    "equipa": "4EX",
+    "entrada": "09:30",
+    "espaco": "Ginásio"
+   },
+   {
+    "equipa": "4EY",
+    "entrada": "09:30",
+    "espaco": "Automação"
+   },
+   {
+    "equipa": "4EZ",
+    "entrada": "10:30",
+    "espaco": "Resultados 2"
+   },
+   {
+    "equipa": "4FA",
+    "entrada": "10:30",
+    "espaco": "Ginásio"
+   },
+   {
+    "equipa": "4FB",
+    "entrada": "09:30",
+    "espaco": "Melhoria"
+   },
+   {
+    "equipa": "4FC",
+    "entrada": "09:30",
+    "espaco": "Iniciativa"
+   },
+   {
+    "equipa": "T2BN",
+    "entrada": "09:30",
+    "espaco": "TA"
+   },
+   {
+    "equipa": "T2BQ",
+    "entrada": "09:30",
+    "espaco": "Otimização 1"
+   },
+   {
+    "equipa": "T3AU",
+    "entrada": "10:30",
+    "espaco": "Qualidade 1"
+   }
+  ],
+  "2026-11-20": [
+   {
+    "equipa": "4EM",
+    "entrada": "09:30",
+    "espaco": "Energias"
+   },
+   {
+    "equipa": "4EN",
+    "entrada": "10:30",
+    "espaco": "Automação"
+   },
+   {
+    "equipa": "4EO",
+    "entrada": "09:30",
+    "espaco": "Telecomunicações"
+   },
+   {
+    "equipa": "4EP",
+    "entrada": "09:30",
+    "espaco": "Instrumentação"
+   },
+   {
+    "equipa": "4EQ",
+    "entrada": "09:30",
+    "espaco": "TA"
+   },
+   {
+    "equipa": "4ER",
+    "entrada": "10:30",
+    "espaco": "Melhoria"
+   },
+   {
+    "equipa": "4EX",
+    "entrada": "10:30",
+    "espaco": "Autonomia 2"
+   },
+   {
+    "equipa": "4EY",
+    "entrada": "10:30",
+    "espaco": "Otimização 2"
+   },
+   {
+    "equipa": "4EZ",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4FA",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4FB",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4FC",
+    "entrada": "09:30",
+    "espaco": "Eletrónica"
+   },
+   {
+    "equipa": "T2BN",
+    "entrada": "09:30",
+    "espaco": "TA"
+   },
+   {
+    "equipa": "T2BQ",
+    "entrada": "09:30",
+    "espaco": "Resultados 1"
+   },
+   {
+    "equipa": "T3AU",
+    "entrada": "10:30",
+    "espaco": "Ginásio"
+   }
+  ],
+  "2026-11-23": [
+   {
+    "equipa": "4EM",
+    "entrada": "09:30",
+    "espaco": "Instrumentação"
+   },
+   {
+    "equipa": "4EN",
+    "entrada": "10:30",
+    "espaco": "Iniciativa"
+   },
+   {
+    "equipa": "4EO",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EP",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EQ",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4ER",
+    "entrada": "10:30",
+    "espaco": "Análise"
+   },
+   {
+    "equipa": "4EX",
+    "entrada": "09:30",
+    "espaco": "Automação"
+   },
+   {
+    "equipa": "4EY",
+    "entrada": "10:30",
+    "espaco": "Resultados 2"
+   },
+   {
+    "equipa": "4EZ",
+    "entrada": "10:30",
+    "espaco": "Autonomia 2"
+   },
+   {
+    "equipa": "4FA",
+    "entrada": "09:30",
+    "espaco": "Ginásio"
+   },
+   {
+    "equipa": "4FB",
+    "entrada": "09:30",
+    "espaco": "Qualidade 2"
+   },
+   {
+    "equipa": "4FC",
+    "entrada": "09:30",
+    "espaco": "Melhoria"
+   },
+   {
+    "equipa": "T2BN",
+    "entrada": "09:30",
+    "espaco": "TA"
+   },
+   {
+    "equipa": "T2BQ",
+    "entrada": "09:30",
+    "espaco": "Autonomia 2"
+   },
+   {
+    "equipa": "T3AU",
+    "entrada": "09:30",
+    "espaco": "TA"
+   }
+  ],
+  "2026-11-24": [
+   {
+    "equipa": "4EM",
+    "entrada": "10:30",
+    "espaco": "Instrumentação"
+   },
+   {
+    "equipa": "4EN",
+    "entrada": "09:30",
+    "espaco": "Análise"
+   },
+   {
+    "equipa": "4EO",
+    "entrada": "10:30",
+    "espaco": "Eletrónica"
+   },
+   {
+    "equipa": "4EP",
+    "entrada": "09:30",
+    "espaco": "Melhoria"
+   },
+   {
+    "equipa": "4EQ",
+    "entrada": "09:30",
+    "espaco": "Iniciativa"
+   },
+   {
+    "equipa": "4ER",
+    "entrada": "10:30",
+    "espaco": "Automação"
+   },
+   {
+    "equipa": "4EX",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EY",
+    "entrada": "09:30",
+    "espaco": "Resultados 2"
+   },
+   {
+    "equipa": "4EZ",
+    "entrada": "10:30",
+    "espaco": "Autonomia 2"
+   },
+   {
+    "equipa": "4FA",
+    "entrada": "09:30",
+    "espaco": "Telecomunicações"
+   },
+   {
+    "equipa": "4FB",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4FC",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "T2BN",
+    "entrada": "09:30",
+    "espaco": "Ginásio"
+   },
+   {
+    "equipa": "T2BQ",
+    "entrada": "09:30",
+    "espaco": "Autonomia 2"
+   },
+   {
+    "equipa": "T3AU",
+    "entrada": "09:30",
+    "espaco": "Autonomia 1"
+   }
+  ],
+  "2026-11-25": [
+   {
+    "equipa": "4EM",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EN",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EO",
+    "entrada": "10:30",
+    "espaco": "Otimização 2"
+   },
+   {
+    "equipa": "4EP",
+    "entrada": "09:30",
+    "espaco": "Ginásio"
+   },
+   {
+    "equipa": "4EQ",
+    "entrada": "09:30",
+    "espaco": "Iniciativa"
+   },
+   {
+    "equipa": "4ER",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EX",
+    "entrada": "09:30",
+    "espaco": "Melhoria"
+   },
+   {
+    "equipa": "4EY",
+    "entrada": "09:30",
+    "espaco": "Resultados 2"
+   },
+   {
+    "equipa": "4EZ",
+    "entrada": "10:30",
+    "espaco": "Autonomia 2"
+   },
+   {
+    "equipa": "4FA",
+    "entrada": "09:30",
+    "espaco": "Qualidade 1"
+   },
+   {
+    "equipa": "4FB",
+    "entrada": "09:30",
+    "espaco": "Análise"
+   },
+   {
+    "equipa": "4FC",
+    "entrada": "09:30",
+    "espaco": "Qualidade 2"
+   },
+   {
+    "equipa": "T2BN",
+    "entrada": "09:30",
+    "espaco": "TA"
+   },
+   {
+    "equipa": "T2BQ",
+    "entrada": "10:30",
+    "espaco": "TA"
+   },
+   {
+    "equipa": "T3AU",
+    "entrada": "10:30",
+    "espaco": "Autonomia 1"
+   }
+  ],
+  "2026-11-26": [
+   {
+    "equipa": "4EM",
+    "entrada": "09:30",
+    "espaco": "Instrumentação"
+   },
+   {
+    "equipa": "4EN",
+    "entrada": "10:30",
+    "espaco": "Telecomunicações"
+   },
+   {
+    "equipa": "4EO",
+    "entrada": "09:30",
+    "espaco": "Otimização 2"
+   },
+   {
+    "equipa": "4EP",
+    "entrada": "09:30",
+    "espaco": "Melhoria"
+   },
+   {
+    "equipa": "4EQ",
+    "entrada": "09:30",
+    "espaco": "Iniciativa"
+   },
+   {
+    "equipa": "4ER",
+    "entrada": "10:30",
+    "espaco": "Ginásio"
+   },
+   {
+    "equipa": "4EX",
+    "entrada": "09:30",
+    "espaco": "Ginásio"
+   },
+   {
+    "equipa": "4EY",
+    "entrada": "09:30",
+    "espaco": "Resultados 2"
+   },
+   {
+    "equipa": "4EZ",
+    "entrada": "09:30",
+    "espaco": "Autonomia 2"
+   },
+   {
+    "equipa": "4FA",
+    "entrada": "10:30",
+    "espaco": "Automação"
+   },
+   {
+    "equipa": "4FB",
+    "entrada": "10:30",
+    "espaco": "Qualidade 2"
+   },
+   {
+    "equipa": "4FC",
+    "entrada": "09:30",
+    "espaco": "Iniciativa"
+   },
+   {
+    "equipa": "T2BN",
+    "entrada": "10:30",
+    "espaco": "Resultados 1"
+   },
+   {
+    "equipa": "T2BQ",
+    "entrada": "09:30",
+    "espaco": "TA"
+   },
+   {
+    "equipa": "T3AU",
+    "entrada": "10:30",
+    "espaco": "TA"
+   }
+  ],
+  "2026-11-27": [
+   {
+    "equipa": "4EM",
+    "entrada": "09:30",
+    "espaco": "Energias"
+   },
+   {
+    "equipa": "4EN",
+    "entrada": "10:30",
+    "espaco": "Melhoria"
+   },
+   {
+    "equipa": "4EO",
+    "entrada": "09:30",
+    "espaco": "Otimização 2"
+   },
+   {
+    "equipa": "4EP",
+    "entrada": "09:30",
+    "espaco": "Eletrónica"
+   },
+   {
+    "equipa": "4EQ",
+    "entrada": "10:30",
+    "espaco": "Iniciativa"
+   },
+   {
+    "equipa": "4ER",
+    "entrada": "09:30",
+    "espaco": "Análise"
+   },
+   {
+    "equipa": "4EX",
+    "entrada": "10:30",
+    "espaco": "Autonomia 2"
+   },
+   {
+    "equipa": "4EY",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4EZ",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4FA",
+    "entrada": "09:30",
+    "espaco": "Creative Studio"
+   },
+   {
+    "equipa": "4FB",
+    "entrada": "10:30",
+    "espaco": "Qualidade 2"
+   },
+   {
+    "equipa": "4FC",
+    "entrada": "09:30",
+    "espaco": "Instrumentação"
+   },
+   {
+    "equipa": "T2BN",
+    "entrada": "09:30",
+    "espaco": "TA"
+   },
+   {
+    "equipa": "T2BQ",
+    "entrada": "09:30",
+    "espaco": "Qualidade 1"
+   },
+   {
+    "equipa": "T3AU",
+    "entrada": "10:30",
+    "espaco": "Autonomia 1"
    }
   ]
  }
