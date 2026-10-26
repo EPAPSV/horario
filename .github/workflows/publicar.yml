@@ -1,0 +1,69 @@
+name: Publicar escala de entrada
+
+on:
+  # 1) sempre que mudas a página (index.html) no repositório
+  push:
+    branches: [main]
+  # 2) sempre que o Power Automate envia dados novos do Excel
+  repository_dispatch:
+    types: [atualizar-horarios]
+  # 3) botão manual (separador Actions → Run workflow)
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+# Uma publicação de cada vez, sem cancelar a que está a decorrer
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  publicar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Obter o repositório
+        uses: actions/checkout@v4
+
+      - name: Gravar horarios.json (só quando vem do Power Automate)
+        id: dados
+        if: github.event_name == 'repository_dispatch'
+        run: |
+          set -e
+          jq '.client_payload.dados' "$GITHUB_EVENT_PATH" > novo.json
+          # Segurança: só aceita se tiver a estrutura esperada
+          jq -e '.dias | type == "object"' novo.json > /dev/null
+          jq -S . novo.json > horarios.json
+          rm novo.json
+          git config user.name  "escala-bot"
+          git config user.email "escala-bot@users.noreply.github.com"
+          git add horarios.json
+          if git diff --cached --quiet; then
+            echo "mudou=false" >> "$GITHUB_OUTPUT"
+            echo "Sem alterações nos horários."
+          else
+            git commit -m "Atualizar horários"
+            git push
+            echo "mudou=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      # Se vier do Power Automate e nada mudou, não volta a publicar
+      - name: Preparar publicação
+        if: github.event_name != 'repository_dispatch' || steps.dados.outputs.mudou == 'true'
+        uses: actions/configure-pages@v5
+
+      - name: Empacotar o site
+        if: github.event_name != 'repository_dispatch' || steps.dados.outputs.mudou == 'true'
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+
+      - name: Publicar no GitHub Pages
+        id: deployment
+        if: github.event_name != 'repository_dispatch' || steps.dados.outputs.mudou == 'true'
+        uses: actions/deploy-pages@v4
