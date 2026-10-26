@@ -35,7 +35,8 @@ jobs:
         if: github.event_name == 'repository_dispatch'
         run: |
           set -e
-          jq '.client_payload.dados' "$GITHUB_EVENT_PATH" > novo.json
+          # O script do Excel envia uma lista de dias; aqui passa ao formato da página
+          jq '.client_payload.dados | {dias: ((.dias // []) | map({(.data): .linhas}) | add // {})}' "$GITHUB_EVENT_PATH" > novo.json
           # Segurança: só aceita se tiver a estrutura esperada
           jq -e '.dias | type == "object"' novo.json > /dev/null
           jq -S . novo.json > horarios.json
