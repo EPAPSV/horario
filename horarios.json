@@ -889,6 +889,83 @@
         "equipa": "T3AU",
         "espaco": "TA"
       }
+    ],
+    "2026-11-24": [
+      {
+        "entrada": "10:30",
+        "equipa": "4EM",
+        "espaco": "Instrumentação"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4EN",
+        "espaco": "Análise"
+      },
+      {
+        "entrada": "10:30",
+        "equipa": "4EO",
+        "espaco": "Eletrónica"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4EP",
+        "espaco": "Melhoria"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4EQ",
+        "espaco": "Iniciativa"
+      },
+      {
+        "entrada": "10:30",
+        "equipa": "4ER",
+        "espaco": "Automação"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4EX",
+        "espaco": "Creative Studio"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4EY",
+        "espaco": "Resultados 2"
+      },
+      {
+        "entrada": "10:30",
+        "equipa": "4EZ",
+        "espaco": "Autonomia 2"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4FA",
+        "espaco": "Telecomunicações"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4FB",
+        "espaco": "Creative Studio"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4FC",
+        "espaco": "Creative Studio"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "T2BN",
+        "espaco": "Ginásio"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "T2BQ",
+        "espaco": "Autonomia 2"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "T3AU",
+        "espaco": "Autonomia 1"
+      }
     ]
   }
 }
