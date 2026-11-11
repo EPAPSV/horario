@@ -1,112 +1,5 @@
 {
   "dias": {
-    "2026-11-09": [
-      {
-        "entrada": "09:30",
-        "equipa": "4EB",
-        "espaco": "Melhoria"
-      },
-      {
-        "entrada": "09:30",
-        "equipa": "4EC",
-        "espaco": "Otimização 1"
-      },
-      {
-        "entrada": "10:30",
-        "equipa": "4ED",
-        "espaco": "Autonomia 1"
-      },
-      {
-        "entrada": "10:30",
-        "equipa": "4EE",
-        "espaco": "Resultados 1"
-      },
-      {
-        "entrada": "09:30",
-        "equipa": "4EF",
-        "espaco": "Ginásio"
-      },
-      {
-        "entrada": "10:30",
-        "equipa": "4EG",
-        "espaco": "Automação"
-      },
-      {
-        "entrada": "09:30",
-        "equipa": "4EM",
-        "espaco": "Creative Studio"
-      },
-      {
-        "entrada": "09:30",
-        "equipa": "4EN",
-        "espaco": "Telecomunicações"
-      },
-      {
-        "entrada": "09:30",
-        "equipa": "4EO",
-        "espaco": "Qualidade 2"
-      },
-      {
-        "entrada": "09:30",
-        "equipa": "4EP",
-        "espaco": "Energias"
-      },
-      {
-        "entrada": "09:30",
-        "equipa": "4EQ",
-        "espaco": "Creative Studio"
-      },
-      {
-        "entrada": "09:30",
-        "equipa": "4ER",
-        "espaco": "Creative Studio"
-      },
-      {
-        "entrada": "09:30",
-        "equipa": "4EX",
-        "espaco": "Iniciativa"
-      },
-      {
-        "entrada": "09:30",
-        "equipa": "4EZ",
-        "espaco": "Autonomia 1"
-      },
-      {
-        "entrada": "09:30",
-        "equipa": "4EY",
-        "espaco": "Resultados 2"
-      },
-      {
-        "entrada": "09:30",
-        "equipa": "4FA",
-        "espaco": "Análise"
-      },
-      {
-        "entrada": "09:30",
-        "equipa": "4FB",
-        "espaco": "Eletrónica"
-      },
-      {
-        "entrada": "09:30",
-        "equipa": "4FC",
-        "espaco": "Instrumentação"
-      },
-      {
-        "entrada": "10:30",
-        "equipa": "T2BN",
-        "espaco": "TA"
-      },
-      {
-        "entrada": "09:30",
-        "equipa": "T2BQ",
-        "espaco": "Qualidade 1"
-      },
-      {
-        "entrada": "09:30",
-        "equipa": "T3AU",
-        "espaco": "TA"
-      }
-    ],
     "2026-11-10": [
       {
         "entrada": "10:30",
@@ -963,6 +856,83 @@
       },
       {
         "entrada": "09:30",
+        "equipa": "T3AU",
+        "espaco": "Autonomia 1"
+      }
+    ],
+    "2026-11-25": [
+      {
+        "entrada": "09:30",
+        "equipa": "4EM",
+        "espaco": "Creative Studio"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4EN",
+        "espaco": "Creative Studio"
+      },
+      {
+        "entrada": "10:30",
+        "equipa": "4EO",
+        "espaco": "Otimização 2"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4EP",
+        "espaco": "Ginásio"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4EQ",
+        "espaco": "Iniciativa"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4ER",
+        "espaco": "Creative Studio"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4EX",
+        "espaco": "Melhoria"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4EY",
+        "espaco": "Resultados 2"
+      },
+      {
+        "entrada": "10:30",
+        "equipa": "4EZ",
+        "espaco": "Autonomia 2"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4FA",
+        "espaco": "Qualidade 1"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4FB",
+        "espaco": "Análise"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4FC",
+        "espaco": "Qualidade 2"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "T2BN",
+        "espaco": "TA"
+      },
+      {
+        "entrada": "10:30",
+        "equipa": "T2BQ",
+        "espaco": "TA"
+      },
+      {
+        "entrada": "10:30",
         "equipa": "T3AU",
         "espaco": "Autonomia 1"
       }
