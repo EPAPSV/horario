@@ -514,7 +514,7 @@
       {
         "entrada": "09:30",
         "equipa": "T2BQ",
-        "espaco": "Otimização 1"
+        "espaco": "Resultados 1"
       },
       {
         "entrada": "10:30",
@@ -586,7 +586,7 @@
       {
         "entrada": "09:30",
         "equipa": "T2BN",
-        "espaco": "TA"
+        "espaco": "Autonomia 1"
       },
       {
         "entrada": "09:30",
@@ -594,9 +594,9 @@
         "espaco": "Resultados 1"
       },
       {
-        "entrada": "10:30",
+        "entrada": "09:30",
         "equipa": "T3AU",
-        "espaco": "Ginásio"
+        "espaco": "Otimização 1"
       }
     ],
     "2026-11-23": [
