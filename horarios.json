@@ -130,6 +130,16 @@
       },
       {
         "entrada": "10:30",
+        "equipa": "4FB",
+        "espaco": "Eletrónica"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4FC",
+        "espaco": "TA"
+      },
+      {
+        "entrada": "10:30",
         "equipa": "T2BN",
         "espaco": "Resultados 1"
       },
@@ -194,6 +204,16 @@
         "entrada": "09:30",
         "equipa": "4FA",
         "espaco": "Telecomunicações"
+      },
+      {
+        "entrada": "10:30",
+        "equipa": "4FB",
+        "espaco": "Energias"
+      },
+      {
+        "entrada": "10:30",
+        "equipa": "4FC",
+        "espaco": "Automação"
       },
       {
         "entrada": "09:30",
@@ -263,6 +283,16 @@
         "espaco": "Instrumentação"
       },
       {
+        "entrada": "10:30",
+        "equipa": "4FB",
+        "espaco": "Telecomunicações"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4FC",
+        "espaco": "Creative Studio"
+      },
+      {
         "entrada": "09:30",
         "equipa": "T2BN",
         "espaco": "TA"
@@ -328,6 +358,16 @@
         "entrada": "09:30",
         "equipa": "4FA",
         "espaco": "Creative Studio"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4FB",
+        "espaco": "Creative Studio"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4FC",
+        "espaco": "Automação"
       },
       {
         "entrada": "21:00",
