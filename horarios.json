@@ -99,6 +99,21 @@
         "espaco": "Creative Studio"
       },
       {
+        "entrada": "09:30",
+        "equipa": "4EQ",
+        "espaco": "Análise"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4ER",
+        "espaco": "Telecomunicações"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4EX",
+        "espaco": "Iniciativa"
+      },
+      {
         "entrada": "10:30",
         "equipa": "T2BN",
         "espaco": "Resultados 1"
@@ -134,6 +149,21 @@
         "entrada": "09:30",
         "equipa": "4EP",
         "espaco": "Eletrónica"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4EQ",
+        "espaco": "Análise"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4ER",
+        "espaco": "Creative Studio"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4EX",
+        "espaco": ""
       },
       {
         "entrada": "09:30",
@@ -174,6 +204,16 @@
       },
       {
         "entrada": "09:30",
+        "equipa": "4EQ",
+        "espaco": "Automação"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4ER",
+        "espaco": "Eletrónica"
+      },
+      {
+        "entrada": "09:30",
         "equipa": "T2BN",
         "espaco": "TA"
       },
@@ -197,7 +237,7 @@
       {
         "entrada": "09:30",
         "equipa": "4EN",
-        "espaco": "Iniciativa"
+        "espaco": "Melhoria"
       },
       {
         "entrada": "10:30",
@@ -208,6 +248,16 @@
         "entrada": "10:30",
         "equipa": "4EP",
         "espaco": "Qualidade 2"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4EQ",
+        "espaco": "Análise"
+      },
+      {
+        "entrada": "10:30",
+        "equipa": "4ER",
+        "espaco": "Iniciativa"
       },
       {
         "entrada": "21:00",
