@@ -114,6 +114,21 @@
         "espaco": "Iniciativa"
       },
       {
+        "entrada": "09:30",
+        "equipa": "4EY",
+        "espaco": "Energias"
+      },
+      {
+        "entrada": "10:30",
+        "equipa": "4EZ",
+        "espaco": "Automação"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4FA",
+        "espaco": "Otimização 2"
+      },
+      {
         "entrada": "10:30",
         "equipa": "T2BN",
         "espaco": "Resultados 1"
@@ -163,7 +178,22 @@
       {
         "entrada": "09:30",
         "equipa": "4EX",
-        "espaco": ""
+        "espaco": "Instrumentação"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4EY",
+        "espaco": "Análise"
+      },
+      {
+        "entrada": "10:30",
+        "equipa": "4EZ",
+        "espaco": "Iniciativa"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4FA",
+        "espaco": "Telecomunicações"
       },
       {
         "entrada": "09:30",
@@ -214,6 +244,26 @@
       },
       {
         "entrada": "09:30",
+        "equipa": "4EX",
+        "espaco": "Creative Studio"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4EY",
+        "espaco": "Creative Studio"
+      },
+      {
+        "entrada": "10:30",
+        "equipa": "4EZ",
+        "espaco": "Análise"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4FA",
+        "espaco": "Instrumentação"
+      },
+      {
+        "entrada": "09:30",
         "equipa": "T2BN",
         "espaco": "TA"
       },
@@ -258,6 +308,26 @@
         "entrada": "10:30",
         "equipa": "4ER",
         "espaco": "Iniciativa"
+      },
+      {
+        "entrada": "10:30",
+        "equipa": "4EX",
+        "espaco": "Instrumentação"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4EY",
+        "espaco": "Eletrónica"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4EZ",
+        "espaco": "Creative Studio"
+      },
+      {
+        "entrada": "09:30",
+        "equipa": "4FA",
+        "espaco": "Creative Studio"
       },
       {
         "entrada": "21:00",
